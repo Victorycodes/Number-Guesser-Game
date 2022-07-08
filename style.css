@@ -1,0 +1,20 @@
+.container {
+    margin: auto;
+}
+
+#guess-btn {
+    text-transform: uppercase;
+    background-color: white;
+    font-size: 10px;
+    outline-color: white;
+    cursor: pointer;
+    height: 35px;
+    width: 90px;
+    border-radius: 3px;
+}
+
+#guess-input {
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+}
